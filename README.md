@@ -12,9 +12,5 @@ Bored with my old job,
 
 Languages and Tools
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />]
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25px" />
 
-
-
-#GH-LIGHT-MODE-ONLY
-#GH-DARK-MODE-ONLY
