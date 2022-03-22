@@ -9,3 +9,12 @@ Bored with my old job,
 - 💖 I am particularly attracted by the front end and especially React
 
 - 👯 Now I'm very happy to be part of this great community and I'm looking forward to contribute to it.
+
+Languages and Tools
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />]
+
+
+
+#GH-LIGHT-MODE-ONLY
+#GH-DARK-MODE-ONLY
